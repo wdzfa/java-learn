@@ -1,3 +1,5 @@
+package teory;
+
 public class LogicOperation {
 
     public static void main(String[] args){

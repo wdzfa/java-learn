@@ -1,3 +1,5 @@
+package teory;
+
 public class Comparation {
 
     public static void main(String[] args){
