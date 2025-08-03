@@ -16,6 +16,8 @@ public class FibonacciLooping {
         f_n_1 = 1;
         f_n = 1;
 
+        // 1. For Loop
+
 //        for (i = 1; i <= 10; i++){
 //
 //            System.out.printf("nilai n ke-%d = %d\n",i, f_n);
@@ -26,10 +28,22 @@ public class FibonacciLooping {
 //
 //        }
 
+        // 2. While Loop
+
+//        i = 1;
+//        while (i<=10){
+//            System.out.printf("nilai ke-%d = %d\n",i, f_n);
+//            f_n = f_n_1 + f_n_2;
+//            f_n_2 = f_n_1;
+//            f_n_1 = f_n;
+//            i++;
+//        }
+
+        // 3. Do While
         System.out.print("Fibonacci : ");
         n = scanner.nextInt();
         i = 1;
-        while (kondisi){
+        do {
             System.out.printf("nilai ke-%d = %d\n",i, f_n);
             f_n = f_n_1 + f_n_2;
             f_n_2 = f_n_1;
@@ -39,7 +53,7 @@ public class FibonacciLooping {
                 kondisi = false;
             }
             i++;
-        }
+        }while (kondisi);
 
     }
 }
