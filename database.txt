@@ -5,3 +5,5 @@ faqihza_2019_1,2019,faqihza,gramedia,belajar C++
 faqihza_2019_2,2019,faqihza,gramedia,belajar python
 faqihza_2019_3,2019,faqihza,gramedia,belajar Java
 ucup_2020_1,2020,Ucup Surucup,kompas,Cara sukses mencari belut di sawah
+joko_2020_0,2020,joko,gramedia,joko kanedy bundir
+yogi_2024_0,2024,yogi,gramedia,Susah sekali melupakannya
